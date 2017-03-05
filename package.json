@@ -1,0 +1,24 @@
+{
+  "name": "botworks",
+  "version": "1.0.0",
+  "description": "Build a bot in Node.js on Microsoft Bot Framework",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsing144/BotWorks.git"
+  },
+  "author": "Gurpreet Singh",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/gsing144/BotWorks/issues"
+  },
+  "homepage": "https://github.com/gsing144/BotWorks#readme",
+  "dependencies": {
+    "botbuilder": "^1.0.0",
+    "restify": "^4.1.0"
+  }
+}
